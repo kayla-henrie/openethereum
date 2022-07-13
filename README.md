@@ -7,6 +7,8 @@ Fast and feature-rich multi-network Ethereum client.
 [![GPL licensed][license-badge]][license-url]
 [![Build Status][ci-badge]][ci-url]
 [![Discord chat][chat-badge]][chat-url]
+[![gitpoap badge](https://public-api.gitpoap.io/v1/repo/ethereum/ethereum-org-website/badge)](https://www.gitpoap.io/rp/9)
+
 
 [license-badge]: https://img.shields.io/badge/license-GPL_v3-green.svg
 [license-url]: LICENSE
